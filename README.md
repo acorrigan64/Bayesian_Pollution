@@ -1,5 +1,5 @@
 <h1 align="center">
-Forecasting Bristol’s Air PollutionUsing Bayesian Networks
+Forecasting Bristol’s Air Pollution Using Bayesian Networks
 </h1>
 
 The goal of this project was to  generate a dynamic model to predict dangerously high levels of NO in Bristol. The model was built using dynamic bayesian networks and trained from publically available data sourced from three local weather stations. Traffic data and extrapolated as exact data was not avaiable.
